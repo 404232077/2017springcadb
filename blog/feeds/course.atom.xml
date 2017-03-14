@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-01T11:00:00+08:00</updated><entry><title>20170301 week2</title><link href="./week2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-03-01:./week2.html</id><summary type="html"></summary><category term="syllabus"></category><category term="w2"></category></entry><entry><title>20170222 week1</title><link href="./week1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-02-22:./week1.html</id><summary type="html">&lt;h2&gt;更正stunnel上的IP設定&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-01T11:00:00+08:00</updated><entry><title>20170301 week2</title><link href="./week2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-03-01:./week2.html</id><summary type="html">&lt;h2&gt;第二周上課內容&lt;/h2&gt;
+
+&lt;h3&gt;1.下載兩個老師 github倉儲四連桿機構的檔案。&lt;/h3&gt;
+
+&lt;h3&gt;2.檔案名稱分別是 fourbar_eightbar_solvespace_vrep與 onelink_vrep_remoteapi_pos_vel，下載完成後解壓縮
+會得到三個資料夾。&lt;/h3&gt;
+
+&lt;h3&gt;3.熟悉與理解 fourbarlinkage資料夾內的零件與組立。&lt;/h3&gt;
+
+&lt;h3&gt;第二周上課內容影片&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/208304983" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry><entry><title>20170222 week1</title><link href="./week1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-02-22:./week1.html</id><summary type="html">&lt;h2&gt;第一周上課內容&lt;/h2&gt;
+
+&lt;h3&gt;更正stunnel上的IP設定&lt;/h3&gt;
 
 &lt;h3&gt;操作步驟&lt;/h3&gt;
 
