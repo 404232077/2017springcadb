@@ -2,11 +2,11 @@ Title: About
 
 ##2017Spring 機械設計工程系協同產品設計實習
 
-課程倉儲: <a href="http://github.com/mdecourse/2017springcd">404232077朱修林課程網誌</a>
+ <a href="https://github.com/404232077/2017springcd_hw">404232077朱修林課程倉儲</a>
 
-課程投影片: <a href="http://mdecourse.github.io/2017springcd">http://mdecourse.github.io/2017springcd</a>
+課程投影片: <a href="https://404232077.github.io/2017springcd_hw/#/">404232077朱修林課程投影片</a>
 
-課程網誌: <a href="http://mdecourse.github.io/2017springcd/blog">http://mdecourse.github.io/2017springcd/blog</a>
+ <a href="https://404232077.github.io/2017springcd_hw/blog/">404232077朱修林課程網誌</a>
 
 
 
