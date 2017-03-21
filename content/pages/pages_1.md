@@ -4,7 +4,7 @@ Title: About
 
  <a href="https://github.com/404232077/2017springcd_hw">404232077朱修林課程倉儲</a>
 
-課程投影片: <a href="https://404232077.github.io/2017springcd_hw/#/">404232077朱修林課程投影片</a>
+ <a href="https://404232077.github.io/2017springcd_hw/#/">404232077朱修林課程投影片</a>
 
  <a href="https://404232077.github.io/2017springcd_hw/blog/">404232077朱修林課程網誌</a>
 
