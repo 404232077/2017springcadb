@@ -18,7 +18,7 @@
 &lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h3&gt;組裝:&lt;/h3&gt;&lt;/font&gt;
  &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/209339824')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; fourbarlinkage_60&lt;/button&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h3&gt;fourbarlinkage&lt;/h3&gt;&lt;/font&gt;
- &lt;iframe src="./../data/四連趕機構.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>20170301 week2</title><link href="./week2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-03-01:./week2.html</id><summary type="html">&lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;第二周上課內容&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;
+ &lt;iframe src="./../data/fourbarlinkage.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>20170301 week2</title><link href="./week2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-03-01:./week2.html</id><summary type="html">&lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;第二周上課內容&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h3&gt;1.下載兩個老師 github倉儲四連桿機構的檔案。&lt;/h3&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h3&gt;2.檔案名稱分別是 fourbar_eightbar_solvespace_vrep與 onelink_vrep_remoteapi_pos_vel，下載完成後解壓縮
 會得到三個資料夾。&lt;/h3&gt;&lt;/font&gt;&lt;/p&gt;
