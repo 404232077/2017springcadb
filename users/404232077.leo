@@ -32,22 +32,76 @@
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
-<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
-<v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
+<v t="leo.20170411212230.1"><vh>slides div</vh>
+<v t="leo.20170411212230.2"><vh>封面投影片</vh>
+<v t="leo.20170411212230.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
-<v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170411212230.4"><vh>20170222Week1</vh>
+<v t="leo.20170411212230.5" a="E"><vh>周次</vh>
+<v t="leo.20170411212230.6"><vh>Week</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20170411212230.7" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170411212230.8"><vh>上課內容1</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
+<v t="leo.20170411212230.9" a="E"><vh>課堂報告2</vh>
+<v t="leo.20170411212230.10"><vh>上課內容2</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20170411212230.11"><vh>20170301Week2</vh>
+<v t="leo.20170411212230.12" a="E"><vh>周次</vh>
+<v t="leo.20170411212230.13"><vh>Week</vh></v>
+</v>
+<v t="leo.20170411212230.14" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170411212230.15"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170411212230.16" a="E"><vh>課堂報告2</vh>
+<v t="leo.20170411212230.17"><vh>上課內容2</vh></v>
+</v>
+</v>
+<v t="leo.20170411212230.18"><vh>20170308Week3</vh>
+<v t="leo.20170411212230.19" a="E"><vh>周次</vh>
+<v t="leo.20170411212230.20"><vh>Week</vh></v>
+</v>
+<v t="leo.20170411212230.21" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170411212230.22"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170411212230.23"><vh>20170315Week4</vh>
+<v t="leo.20170411212230.24" a="E"><vh>周次</vh>
+<v t="leo.20170411212230.25"><vh>Week</vh></v>
+</v>
+<v t="leo.20170411212230.26" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170411212230.27"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170411212230.28"><vh>20170322Week5</vh>
+<v t="leo.20170411212230.29" a="E"><vh>周次</vh>
+<v t="leo.20170411212230.30"><vh>Week</vh></v>
+</v>
+<v t="leo.20170411212230.31" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170411212230.32"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170411212230.33" a="E"><vh>課堂報告2</vh>
+<v t="leo.20170411212230.34"><vh>上課內容2</vh></v>
+</v>
+</v>
+<v t="leo.20170411212230.35"><vh>20170329Week6</vh>
+<v t="leo.20170411212230.36" a="E"><vh>周次</vh>
+<v t="leo.20170411212230.37"><vh>Week</vh></v>
+</v>
+<v t="leo.20170411212230.38" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170411212230.39"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170411212230.40"><vh>各式內容引用範例</vh>
+<v t="leo.20170411212230.41" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20170411212230.42"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20170411212230.43" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20170411212230.44"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170411212230.45" a="E"><vh>導入影片</vh>
+<v t="leo.20170411212230.46"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -90,6 +144,355 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170411212230.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20170411212230.10">&lt;font face="DFKai-sb"&gt;&lt;h3&gt;第一周上課內容影片&lt;/h3&gt;&lt;/font&gt;
+&lt;iframe src="https://player.vimeo.com/video/208273251" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411212230.11">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170411212230.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.13"># Week 2
+</t>
+<t tx="leo.20170411212230.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.15">&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;第二周上課內容&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;1.下載兩個老師 github倉儲四連桿機構的檔案。&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;2.檔案名稱分別是 fourbar_eightbar_solvespace_vrep與 onelink_vrep_remoteapi_pos_vel，下載完成後解壓縮
+會得到三個資料夾。&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;3.熟悉與理解 fourbarlinkage資料夾內的零件與組立。&lt;/p&gt;&lt;/font&gt;
+</t>
+<t tx="leo.20170411212230.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.17">&lt;font face="DFKai-sb"&gt;&lt;h3&gt;第二周上課內容影片&lt;/h3&gt;&lt;/font&gt;
+&lt;iframe src="https://player.vimeo.com/video/208304983" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411212230.18">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170411212230.19">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170411212230.20"># Week 3
+</t>
+<t tx="leo.20170411212230.21">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.22">&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;第三周上課內容&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;1.用 solvespace和 onshape劃出四連趕機構零件並組裝&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;2.轉入Vrep模擬&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;3.錄製影片展示在自己的個人網誌上&lt;/p&gt;&lt;/font&gt;
+</t>
+<t tx="leo.20170411212230.23">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170411212230.24">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.25"># Week 4
+</t>
+<t tx="leo.20170411212230.26">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.27">&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;第四周上課內容&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;1.各組建立好自己的fossil平台&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;2.每個組員設定好自己的帳號密碼&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;3.在 solvespace 繪製  one-link的零件並且完成組立。&lt;/p&gt;&lt;/font&gt;</t>
+<t tx="leo.20170411212230.28">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170411212230.29">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.3">## 2017Spring 協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [404232077](https://404232077.github.io/2017springcd_hw/blog/)
+&lt;/small&gt;
+
+
+[協同產品設計實習課程網誌](blog/index.html)
+
+
+</t>
+<t tx="leo.20170411212230.30"># Week 5
+</t>
+<t tx="leo.20170411212230.31">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.32">&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;第五周上課內容&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;1.把在 solvespace 完成的   one-line 組立，轉進 V-rep。&lt;/p&gt;&lt;/font&gt;</t>
+<t tx="leo.20170411212230.33">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.34">&lt;font face="DFKai-sb"&gt;&lt;h3&gt;操作過程&lt;/h3&gt;&lt;/font&gt;
+&lt;iframe src="https://player.vimeo.com/video/211503855" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170411212230.35">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170411212230.36">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.37"># Week 6
+</t>
+<t tx="leo.20170411212230.38">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.39">&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;第六周上課內容&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;1.在 onshape 用變數的方式重新標註 fourbarlinkage。&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;2.完成之後輸出成 STL檔，轉入 V-rep。&lt;/p&gt;&lt;/font&gt;</t>
+<t tx="leo.20170411212230.4">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170411212230.40">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170411212230.41">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.42"># 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+</t>
+<t tx="leo.20170411212230.43">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.44">## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+@language python
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+</t>
+<t tx="leo.20170411212230.45">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170411212230.46">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170411212230.5">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.6"># Week 1
+</t>
+<t tx="leo.20170411212230.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411212230.8">&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;第一周上課內容&lt;/p&gt;&lt;/font&gt;
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;更正stunnel上的IP設定&lt;/p&gt;&lt;/font&gt;
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;操作步驟&lt;/p&gt;&lt;/font&gt;
+
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;1.先到課程網誌下載 tiny2017 1GB大小的程式。&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;2.開啟 star，利用 ipconfig /all指令找出自己電腦的IP。&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="DFKai-sb"&gt;&lt;p align="left"&gt;3.把 stunnel.conf拉到SciTE，更改IP，允許防火牆。&lt;/p&gt;&lt;/font&gt;
+
+</t>
+<t tx="leo.20170411212230.9">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -243,91 +646,6 @@ make.start()</t>
 @others
 
 </t>
-<t tx="yen.20170120110024.10"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="yen.20170120110024.11">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
@@ -399,42 +717,6 @@ make.start()
 @others
 &lt;/div&gt;
 
-</t>
-<t tx="yen.20170120110024.6">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="yen.20170120110024.7">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
-&lt;/small&gt;
-
-[協同產品設計實習課程網誌](blog/index.html)
-
-
-</t>
-<t tx="yen.20170120110024.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
 <t tx="yen.20170120212350.1"></t>
 <t tx="yen.20170120212354.1">@language python
