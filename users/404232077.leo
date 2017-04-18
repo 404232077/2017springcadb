@@ -32,7 +32,7 @@
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
-<v t="leo.20170411212230.1"><vh>slides div</vh>
+<v t="leo.20170411212230.1" a="E"><vh>slides div</vh>
 <v t="leo.20170411212230.2"><vh>封面投影片</vh>
 <v t="leo.20170411212230.3"><vh>封面投影片內容</vh></v>
 </v>
@@ -116,7 +116,8 @@
 <v t="leo.20170315102551.1"><vh>@edit 20170315.md</vh></v>
 <v t="leo.20170328202539.1"><vh>@edit 20170322.md</vh></v>
 <v t="leo.20170329114012.1"><vh>@edit 20170329.md</vh></v>
-<v t="yen.20170108171733.81"><vh>@path pages</vh>
+<v t="leo.20170418205020.1"><vh>@edit 20170412.md</vh></v>
+<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
