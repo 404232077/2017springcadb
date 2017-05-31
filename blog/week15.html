@@ -313,18 +313,14 @@ n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
-# 以下列出 W11 2B 未出席人數
-data = open("./../data/w11/2b0503.txt", encoding="utf-8").read()
-count = 0
-# 去掉前面兩列
-student = data.split("\n")[2:]
-for i in range(len(student)):
-    each = student[i].split("\t")
-    if each[1] != "出席":
-        count = count + 1
-#print(count)
-div = doc["onegear_div"]
-div <= "2b: " +  str(count) + "/" + str(len(student))
+
+
+ctx.beginPath()
+ctx.fillstyle =  "#FF359A"
+ctx.font =  "30px ScriptS"
+ctx.fillText("404232077 ",350,400)
+ctx.stroke()
+
 </script>
 
 <iframe src="https://player.vimeo.com/video/219616414" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
