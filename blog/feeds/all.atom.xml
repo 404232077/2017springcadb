@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-31T11:00:00+08:00</updated><entry><title>20170426 week15</title><link href="./week15.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-05-31:./week15.html</id><summary type="html">&lt;!-- 導入 Brython 標準程式庫 --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-31T11:00:00+08:00</updated><entry><title>20170426 week15</title><link href="./week15.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-05-31:./week15.html</id><summary type="html">&lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;單一正齒輪&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
 
@@ -164,7 +165,9 @@ for i in range(len(student)):
 #print(count)
 div = doc["onegear_div"]
 div &lt;= "2b: " +  str(count) + "/" + str(len(student))
-&lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>20170426 week10</title><link href="./week10.html" rel="alternate"></link><published>2017-04-26T11:00:00+08:00</published><updated>2017-04-26T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-04-26:./week10.html</id><summary type="html">&lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;第十周上課內容&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/219616414" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>20170426 week10</title><link href="./week10.html" rel="alternate"></link><published>2017-04-26T11:00:00+08:00</published><updated>2017-04-26T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-04-26:./week10.html</id><summary type="html">&lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;第十周上課內容&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;1.將四連桿四足行走機構匯到 V-rep 內模擬。&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w10"></category></entry><entry><title>20170419 week9</title><link href="./week9.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-04-19:./week9.html</id><summary type="html">&lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;第九周期中報告&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;part1:&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;1.每個小組的成員在 solvespace 畫出四連桿，四連桿的上三角部分其中一邊常設為變數，每個人負責不同的變數繪製到 solvespace。&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;
