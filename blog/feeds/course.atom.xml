@@ -2034,7 +2034,10 @@ Constraint.other=0
 Constraint.other2=0
 Constraint.reference=0
 AddConstraint
-&lt;/pre&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>20170426 week15</title><link href="./week15.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-05-31:./week15.html</id><summary type="html">&lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;單一正齒輪&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h3&gt;2D繪圖過程&lt;/h3&gt;&lt;/font&gt;
+&lt;iframe src="https://player.vimeo.com/video/221522966" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>20170426 week15</title><link href="./week15.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2017-05-31:./week15.html</id><summary type="html">&lt;p&gt;&lt;font face="DFKai-sb"&gt;&lt;h2&gt;單一正齒輪&lt;/h2&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
